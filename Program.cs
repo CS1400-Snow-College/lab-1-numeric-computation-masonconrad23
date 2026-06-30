@@ -2,7 +2,8 @@
 // OrderPrecedence();
 // IntegerPrecision();
 // WorkWithDoubles();
-WorkWithDecimals();
+// WorkWithDecimals();
+CalculateCircleArea();
 
 void WorkWithIntegers()
 {
@@ -104,4 +105,13 @@ void WorkWithDecimals()
     decimal c = 1.0M;
     decimal d = 3.0M;
     Console.WriteLine(c / d);
+}
+
+
+void CalculateCircleArea()
+{
+    double radius = 2.50;
+    double area = Math.PI * radius * radius;
+
+    Console.WriteLine($"The area of a circle with radius {radius} cm is {area} square cm.");
 }
