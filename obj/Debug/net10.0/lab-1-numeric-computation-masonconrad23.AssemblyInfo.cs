@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-1-numeric-computation-masonconrad23")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ad25b87fc0ae0baff7df2311618cf03e9cb72ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b819f02936eb90d072bc661319a0dd70c0b16b6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-1-numeric-computation-masonconrad23")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-1-numeric-computation-masonconrad23")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
