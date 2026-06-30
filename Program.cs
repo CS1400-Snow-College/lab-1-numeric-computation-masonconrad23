@@ -1,6 +1,7 @@
 ﻿// WorkWithIntegers();
 // OrderPrecedence();
-IntegerPrecision();
+// IntegerPrecision();
+WorkWithDoubles();
 
 void WorkWithIntegers()
 {
@@ -63,4 +64,27 @@ void IntegerPrecision()
 
     int what = max + 3;
     Console.WriteLine($"An example of overflow: {what}");
+}
+
+
+void WorkWithDoubles()
+{
+    double a = 5;
+    double b = 4;
+    double c = 2;
+    double d = (a + b) / c;
+    Console.WriteLine(d);
+
+    a = 19;
+    b = 23;
+    c = 8;
+    d = (a + b) / c;
+    Console.WriteLine(d);
+
+    double max = double.MaxValue;
+    double min = double.MinValue;
+    Console.WriteLine($"The range of double is {min} to {max}");
+
+    double third = 1.0 / 3.0;
+    Console.WriteLine(third);
 }
