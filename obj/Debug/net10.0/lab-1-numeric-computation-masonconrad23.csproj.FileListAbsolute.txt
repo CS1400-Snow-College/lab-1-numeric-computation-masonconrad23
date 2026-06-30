@@ -1,0 +1,15 @@
+C:\Users\mason\my-code-dir\lab-1-numeric-computation-masonconrad23\bin\Debug\net10.0\lab-1-numeric-computation-masonconrad23.exe
+C:\Users\mason\my-code-dir\lab-1-numeric-computation-masonconrad23\bin\Debug\net10.0\lab-1-numeric-computation-masonconrad23.deps.json
+C:\Users\mason\my-code-dir\lab-1-numeric-computation-masonconrad23\bin\Debug\net10.0\lab-1-numeric-computation-masonconrad23.runtimeconfig.json
+C:\Users\mason\my-code-dir\lab-1-numeric-computation-masonconrad23\bin\Debug\net10.0\lab-1-numeric-computation-masonconrad23.dll
+C:\Users\mason\my-code-dir\lab-1-numeric-computation-masonconrad23\bin\Debug\net10.0\lab-1-numeric-computation-masonconrad23.pdb
+C:\Users\mason\my-code-dir\lab-1-numeric-computation-masonconrad23\obj\Debug\net10.0\lab-1-numeric-computation-masonconrad23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mason\my-code-dir\lab-1-numeric-computation-masonconrad23\obj\Debug\net10.0\lab-1-numeric-computation-masonconrad23.AssemblyInfoInputs.cache
+C:\Users\mason\my-code-dir\lab-1-numeric-computation-masonconrad23\obj\Debug\net10.0\lab-1-numeric-computation-masonconrad23.AssemblyInfo.cs
+C:\Users\mason\my-code-dir\lab-1-numeric-computation-masonconrad23\obj\Debug\net10.0\lab-1-numeric-computation-masonconrad23.csproj.CoreCompileInputs.cache
+C:\Users\mason\my-code-dir\lab-1-numeric-computation-masonconrad23\obj\Debug\net10.0\lab-1-numeric-computation-masonconrad23.sourcelink.json
+C:\Users\mason\my-code-dir\lab-1-numeric-computation-masonconrad23\obj\Debug\net10.0\lab-1-numeric-computation-masonconrad23.dll
+C:\Users\mason\my-code-dir\lab-1-numeric-computation-masonconrad23\obj\Debug\net10.0\refint\lab-1-numeric-computation-masonconrad23.dll
+C:\Users\mason\my-code-dir\lab-1-numeric-computation-masonconrad23\obj\Debug\net10.0\lab-1-numeric-computation-masonconrad23.pdb
+C:\Users\mason\my-code-dir\lab-1-numeric-computation-masonconrad23\obj\Debug\net10.0\lab-1-numeric-computation-masonconrad23.genruntimeconfig.cache
+C:\Users\mason\my-code-dir\lab-1-numeric-computation-masonconrad23\obj\Debug\net10.0\ref\lab-1-numeric-computation-masonconrad23.dll
